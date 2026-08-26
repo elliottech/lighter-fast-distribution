@@ -1,0 +1,9 @@
+{
+  "name": "lighter-fast-distribution",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "analyze": "bun run calculate-improvements.ts",
+    "test": "bun test"
+  }
+}

@@ -1,0 +1,18 @@
+# Dependencies and generated build/test artifacts
+node_modules/
+dist/
+coverage/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/

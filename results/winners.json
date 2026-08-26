@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "benchmarkId": "c6931fd9-f783-4e1f-84df-c7ffe49c3426",
+    "benchmarkName": "eigenlabs/lighter-prover-challenge",
+    "direction": "+",
+    "baselineScore": "3.18419941491498",
+    "finalFrontierScore": "33.6546578925448",
+    "submissionCount": 165,
+    "solverCount": 47,
+    "frontierStepCount": 165,
+    "eligibleFrontierStepCount": 145,
+    "contributingSolverCount": 43,
+    "totalFrontierImprovement": "30.47045847762982",
+    "eligibleImprovement": "23.84130401991606",
+    "excludedGithubLogins": [
+      "0xclandestine",
+      "0xkydo",
+      "anetael",
+      "antojoseph",
+      "anupsv",
+      "aryabhuptani",
+      "brandon-eigenlabs",
+      "bxue-l2",
+      "c-dewansahil",
+      "chris-moller",
+      "crypt0fairy",
+      "cryptogakusei",
+      "d-cobs",
+      "darenspears",
+      "defiyeti",
+      "dennisonbertram",
+      "eigen-beatrice",
+      "eigendaniel",
+      "eigenlabsitadmin",
+      "eigenmikem",
+      "eigenmustafa",
+      "elhajin",
+      "erickeigen",
+      "estella-xhx",
+      "ethenotethan",
+      "gajesh2007",
+      "gpsanant",
+      "ian-shim",
+      "jonyan",
+      "joshconverse",
+      "jseigen",
+      "lulu-zhou-eigenlabs",
+      "m3kko",
+      "mc1823315",
+      "mcclurejt",
+      "mmurrs",
+      "mooselumph",
+      "mpjunior92",
+      "nadir-akhtar",
+      "philburgess1",
+      "phileigenlabs",
+      "pratikgx",
+      "samleo24",
+      "sarahraeharris",
+      "saucegodbased",
+      "seanmcgary",
+      "serichoi65",
+      "taekyunggg",
+      "vineetguptadev",
+      "vishnu-a-p",
+      "zeeshan8281"
+    ],
+    "excludedSubmissionSolverCount": 4,
+    "excludedFrontierImprovement": "6.62915445771376",
+    "firstPromotion": "2026-08-05T16:47:09.222000Z",
+    "lastPromotion": "2026-08-25T12:20:48.821000Z",
+    "seed": "79f70cf812351eed31a36c3e6a0d26a9a58321971a8c00e29edb7da84ea8da42",
+    "randomPool": "non-top-contributors"
+  },
+  "top": [
+    {
+      "rank": 1,
+      "solverAccountId": "3fe96774-9dad-4ac1-903d-873eaba72049",
+      "solverUsername": "i34-9",
+      "totalImprovement": "8.40037157765033",
+      "improvementSharePercent": "35.23%",
+      "frontierSteps": 28,
+      "daysContributed": 8,
+      "prize": {
+        "token": "LIT",
+        "amount": 8600
+      }
+    },
+    {
+      "rank": 2,
+      "solverAccountId": "c98f0e02-d75e-47f4-99e3-5d657c0b60d2",
+      "solverUsername": "Meganpark980320",
+      "totalImprovement": "2.7488634624244",
+      "improvementSharePercent": "11.53%",
+      "frontierSteps": 2,
+      "daysContributed": 1,
+      "prize": {
+        "token": "LIT",
+        "amount": 5500
+      }
+    },
+    {
+      "rank": 3,
+      "solverAccountId": "d9bb60bf-6d08-4b1a-93f0-b5ea1f9b4caf",
+      "solverUsername": "jungjipdo",
+      "totalImprovement": "1.34908570876987",
+      "improvementSharePercent": "5.66%",
+      "frontierSteps": 14,
+      "daysContributed": 7,
+      "prize": {
+        "token": "LIT",
+        "amount": 3600
+      }
+    },
+    {
+      "rank": 4,
+      "solverAccountId": "1fb3f86a-64a3-4824-9572-67cc5792d5f9",
+      "solverUsername": "exakoss",
+      "totalImprovement": "1.1406879061633",
+      "improvementSharePercent": "4.78%",
+      "frontierSteps": 10,
+      "daysContributed": 5,
+      "prize": {
+        "token": "LIT",
+        "amount": 2400
+      }
+    },
+    {
+      "rank": 5,
+      "solverAccountId": "90f83911-a856-4c07-b48b-1b3d140b6cfd",
+      "solverUsername": "zuiris",
+      "totalImprovement": "0.9943442313299",
+      "improvementSharePercent": "4.17%",
+      "frontierSteps": 3,
+      "daysContributed": 2,
+      "prize": {
+        "token": "LIT",
+        "amount": 1550
+      }
+    },
+    {
+      "rank": 6,
+      "solverAccountId": "96922ed0-a003-495b-a203-46cfbba09eb1",
+      "solverUsername": "bot66",
+      "totalImprovement": "0.8245742877102",
+      "improvementSharePercent": "3.46%",
+      "frontierSteps": 6,
+      "daysContributed": 2,
+      "prize": {
+        "token": "LIT",
+        "amount": 950
+      }
+    }
+  ],
+  "random": [
+    {
+      "rank": 8,
+      "solverAccountId": "788344d9-7313-487a-8058-505f0505dd28",
+      "solverUsername": "AlexLaevski",
+      "totalImprovement": "0.6984226872687",
+      "improvementSharePercent": "2.93%",
+      "frontierSteps": 5,
+      "daysContributed": 2,
+      "prize": {
+        "token": "LIT",
+        "amount": 800
+      },
+      "draw": 1,
+      "eligibleImprovementAtDraw": "8.38337684586806",
+      "probabilityAtDrawPercent": "8.33%"
+    },
+    {
+      "rank": 9,
+      "solverAccountId": "143728cd-f56f-4e4e-8fae-d06a59202420",
+      "solverUsername": "pepedesigner",
+      "totalImprovement": "0.628089401463",
+      "improvementSharePercent": "2.63%",
+      "frontierSteps": 3,
+      "daysContributed": 2,
+      "prize": {
+        "token": "LIT",
+        "amount": 800
+      },
+      "draw": 2,
+      "eligibleImprovementAtDraw": "7.68495415859936",
+      "probabilityAtDrawPercent": "8.17%"
+    },
+    {
+      "rank": 14,
+      "solverAccountId": "724fae80-ef53-4caa-a5fa-7a82f04cc277",
+      "solverUsername": "fkiene",
+      "totalImprovement": "0.4303412376396",
+      "improvementSharePercent": "1.81%",
+      "frontierSteps": 1,
+      "daysContributed": 1,
+      "prize": {
+        "token": "LIT",
+        "amount": 800
+      },
+      "draw": 3,
+      "eligibleImprovementAtDraw": "7.05686475713636",
+      "probabilityAtDrawPercent": "6.10%"
+    }
+  ]
+}
